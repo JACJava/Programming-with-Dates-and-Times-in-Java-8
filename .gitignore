@@ -1,0 +1,27 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Server stuff
+Servers/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Default
+/build/
+/target/
+/.metadata/
+/.recommenders/
+build/classes/com/pluralsight/Programming with Dates and Times in Java 8.class
+*.class
